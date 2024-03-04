@@ -1,0 +1,17 @@
+{
+    "name": "Ishakov/Advcake",
+    "autoload": {
+        "psr-4": {
+            "Ishakov\\Advcake\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ishakov2023",
+            "email": "ishakov-dmitrii@mail.ru"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^10.5"
+    }
+}
